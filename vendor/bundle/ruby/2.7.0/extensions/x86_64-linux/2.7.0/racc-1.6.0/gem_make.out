@@ -1,0 +1,17 @@
+current directory: /home/i-net/the_odin_project/hello-rails/hello_rails_project/vendor/bundle/ruby/2.7.0/gems/racc-1.6.0/ext/racc/cparse
+/home/i-net/.rbenv/versions/2.7.0/bin/ruby -I /home/i-net/.rbenv/versions/2.7.0/lib/ruby/2.7.0 -r ./siteconf20220721-47869-1hgwpro.rb extconf.rb
+checking for rb_block_call()... yes
+checking for rb_ary_subseq()... yes
+creating Makefile
+
+current directory: /home/i-net/the_odin_project/hello-rails/hello_rails_project/vendor/bundle/ruby/2.7.0/gems/racc-1.6.0/ext/racc/cparse
+make "DESTDIR=" clean
+
+current directory: /home/i-net/the_odin_project/hello-rails/hello_rails_project/vendor/bundle/ruby/2.7.0/gems/racc-1.6.0/ext/racc/cparse
+make "DESTDIR="
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /home/i-net/the_odin_project/hello-rails/hello_rails_project/vendor/bundle/ruby/2.7.0/gems/racc-1.6.0/ext/racc/cparse
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cparse.so ./.gem.20220721-47869-xcz9l8/racc

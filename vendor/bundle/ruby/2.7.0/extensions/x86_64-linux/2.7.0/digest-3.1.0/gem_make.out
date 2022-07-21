@@ -1,0 +1,18 @@
+current directory: /home/i-net/the_odin_project/hello-rails/hello_rails_project/vendor/bundle/ruby/2.7.0/gems/digest-3.1.0/ext/digest/sha2
+/home/i-net/.rbenv/versions/2.7.0/bin/ruby -I /home/i-net/.rbenv/versions/2.7.0/lib/ruby/2.7.0 -r ./siteconf20220721-47869-wyu5ph.rb extconf.rb
+checking for u_int8_t... yes
+checking for sys/cdefs.h... yes
+creating Makefile
+
+current directory: /home/i-net/the_odin_project/hello-rails/hello_rails_project/vendor/bundle/ruby/2.7.0/gems/digest-3.1.0/ext/digest/sha2
+make "DESTDIR=" clean
+
+current directory: /home/i-net/the_odin_project/hello-rails/hello_rails_project/vendor/bundle/ruby/2.7.0/gems/digest-3.1.0/ext/digest/sha2
+make "DESTDIR="
+compiling sha2init.c
+compiling sha2.c
+linking shared-object digest/sha2.so
+
+current directory: /home/i-net/the_odin_project/hello-rails/hello_rails_project/vendor/bundle/ruby/2.7.0/gems/digest-3.1.0/ext/digest/sha2
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 sha2.so ./.gem.20220721-47869-ihr1e/digest

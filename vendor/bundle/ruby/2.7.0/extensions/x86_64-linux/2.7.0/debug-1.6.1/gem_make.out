@@ -1,0 +1,16 @@
+current directory: /home/i-net/the_odin_project/hello-rails/hello_rails_project/vendor/bundle/ruby/2.7.0/gems/debug-1.6.1/ext/debug
+/home/i-net/.rbenv/versions/2.7.0/bin/ruby -I /home/i-net/.rbenv/versions/2.7.0/lib/ruby/2.7.0 -r ./siteconf20220721-47869-1t95026.rb extconf.rb
+creating Makefile
+
+current directory: /home/i-net/the_odin_project/hello-rails/hello_rails_project/vendor/bundle/ruby/2.7.0/gems/debug-1.6.1/ext/debug
+make "DESTDIR=" clean
+
+current directory: /home/i-net/the_odin_project/hello-rails/hello_rails_project/vendor/bundle/ruby/2.7.0/gems/debug-1.6.1/ext/debug
+make "DESTDIR="
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.so
+
+current directory: /home/i-net/the_odin_project/hello-rails/hello_rails_project/vendor/bundle/ruby/2.7.0/gems/debug-1.6.1/ext/debug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 debug.so ./.gem.20220721-47869-dr3th7/debug
